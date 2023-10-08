@@ -1,0 +1,15 @@
+[2023-07-12 15:01:04.779116]: begin loadTRTModel model/cls_image_sharp_v1.0.0.trt
+
+[2023-07-12 15:01:04.850966]: model size: 95167008
+
+[2023-07-12 15:01:05.968126]: TensorRT was linked against cuDNN 7.6.3 but loaded cuDNN 7.4.1
+
+[2023-07-12 15:01:05.969015]: Deserialize required 876250 microseconds.
+
+[2023-07-12 15:01:05.972623]: TensorRT was linked against cuDNN 7.6.3 but loaded cuDNN 7.4.1
+
+[2023-07-12 15:01:05.972819]: end loadTRTModel
+
+[2023-07-12 15:01:05.994896]: Cls Image Net Cost Time: 2 ms
+[2023-07-12 15:01:05.994944]: 4 ms images/testing/9696821_1565150933575_1565150917569.jpg 0 0.999936 
+[2023-07-12 15:01:05.994953]:  average time: -0 ms

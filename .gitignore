@@ -1,0 +1,4 @@
+src/ai_model/cls_image_sharp_v1.0.0.trt
+src/ai_model/model/cls_image_sharp_v1.0.0.trt
+src/3rdParty/ubuntu-cuda10/libnvinfer.so.6
+src/3rdParty/ubuntu-cuda10/libcublas.so.10.0

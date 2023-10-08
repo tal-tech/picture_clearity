@@ -1,0 +1,13 @@
+[2023-09-07 11:21:59.695255]: begin loadTRTModel /home/mayang8/open_source/image_clarity/src/bin/../ai_model/model/cls_image_sharp_v1.0.0.trt
+
+[2023-09-07 11:22:00.495585]: model size: 95167008
+
+[2023-09-07 11:22:09.952570]: TensorRT was linked against cuDNN 7.6.3 but loaded cuDNN 7.4.1
+
+[2023-09-07 11:22:09.953789]: Deserialize required 5554521 microseconds.
+
+[2023-09-07 11:22:09.957684]: TensorRT was linked against cuDNN 7.6.3 but loaded cuDNN 7.4.1
+
+[2023-09-07 11:22:09.957894]: end loadTRTModel
+
+[2023-09-07 11:22:09.960426]: Input image must has 3 channels.
